@@ -1,10 +1,20 @@
-## Welcome to GitHub Pages
+# Hello, welcome to my research study about learning! 
 
-You can use the [editor on GitHub](https://github.com/EchungYang/PhDResearchProject_PES.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## A bit background about me and this project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Yiqiong Yang, a Chinese girl on my way of a tough PhD journey at the University of Cambridge，major in Psychology and Education. I obtained a bachelor degre in psychology and then become specilised in educational psychology as I think the application of cognitivev psychology in learning is fun. 
 
-### Markdown
+Learning is an amazing phenomenon in both human being and animals. It seems to happen natrually to us, but there are many specific cognitive processes involved in learning that worth investigating, such as how do we think, reason, make decisions and aware of our decisions in different contexts. 
+
+I am in particular curious about how we respond to tasks when specific rules apply. If you would like to help me with this research project, this page has almost everything you need to know before continuing :)
+ 
+
+## What is it about this experiment?
+
+This research project has three components: a brief questionnaire, a computerised experiment and a self-report survey. All responses will be recorde anounymously. 
+
+### Part 1 Questionnaire
+The questionnaire helps each participant to generate a unique ID. This 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
