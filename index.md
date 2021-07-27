@@ -1,34 +1,73 @@
-title: Welcome to my research study about learning! 
+# Welcome to my research study about learning! 
 
 
 
 ## A bit background about me and this project
 
-Hi, my name is Yiqiong Yang, a Chinese girl on my way of a tough PhD journey at the University of Cambridge，major in Psychology and Education. I obtained a bachelor degre in psychology and then become specilised in educational psychology as I think learning how do we learn is fun. 
+Hi, my name is Yiqiong Yang, a Chinese girl on my way through a tough Ph.D. journey at the University of Cambridge，major in Psychology and Education. I obtained a bachelor's degree in psychology, and then I became specialised in educational psychology as I think learning how do we learn is fun.
 
-Learning is an amazing phenomenon in both human beings and animals. We may think it just comes so natrually to us, but actually there are lots of steps involved that worth to take a closer look, such as how do we reason a simple math problem, make decisions in a multiple choice and how do we aware of our judgement in different contexts. 
+Learning is an amazing phenomenon in both human beings and animals. We may think it just comes so naturally to us, but there are lots of steps involved that are worth taking a closer look at, such as how do we reason a simple math problem, make decisions in a multiple-choice and how do we aware of our judgment in different contexts.
 
-For me, I am in particular curious about how do we respond to tasks when rules changed. Do we use the same set of strategy to do different tasks? Do we stay alert in boredness? So, if you are willing to help me with answering these questions, this page has almost everything you need to know before continuing :)
- 
+For me, I am in particular curious about how do we respond to tasks when rules changed. Do we use the same set of strategies to do different tasks? Do we stay alert in boredness? So, if you are willing to help me with answering these questions, this page has almost everything you need to know before continuing :)
 
-## How does this experiment work?
+## How does this project work?
 
-This research project has three components: a brief questionnaire, a computerised experiment and a self-report survey. All responses will be recorde anounymously. 
+This research project has three components: 
+
+1. A brief questionnaire, 
+2. A computerised experiment, 
+3. and a self-report survey. 
+
+All responses will be recorded anonymously. 
 
 ### Part 1 Questionnaire
-The first think you will come acros is a really short questionnaire. It consists of a an information sheet about the project for you to read through, a consent form for you to sign/click, and an ID generator that gives you a unique ID, which you may need to write it down for later use. 
+The first thing you will come across is a super short questionnaire. It consists of an information sheet about the project for you to read through, a consent form for you to sign/click, and an ID generator that gives you a unique ID, which you may need to write it down for later use. 
 
-Estimate duration: 1min
+__Estimate duration: 1min__
 
-### Part 2 Computerised experiment
-You will be directed to an online research platform after you finish the initial questionnaire, and thi platform only works for PC or laptops. So please make sure you open the experiment link on an appropriate device. You will complete three tasks on this platform, and the task rules and instructions will be displayed before you start. 
+### Part 2 Computerised experim
+If you click the link at the end of the questionnaire, you will be directed to an online research platform that only works for PC or laptops. So please make sure you open the experiment link on an appropriate device. You will complete three tasks on this platform, and the task rules and instructions will be displayed before you start. 
 
-Estimate duration: 25-30min
+__Estimated duration: 25-30min__
 
 ### Part 3 Self-report survey
-You will be re-directed the survey platform and complete a short demographic questionnaire, and then a task related questionnaire that contains 20 items. You will need the ID number generated in part 1 here. This is because the survey data and the experimen data are stored sperately, which requires a matching ID to identify individuals' data. However, it does not mean that your data can be tracked by any mean as all data are saved anoumymously.  
+You will be re-directed to the survey platform to complete a short demographic questionnaire as well as a task-related questionnaire that contains 20 items. __You will need the ID number generated in Part 1 to fill an item of the demographic questionnaire.__ This is because the survey data and the experiment data are stored separately, which requires two sets of data to have a matching ID to be paired and analysed together. However, it does not mean that your data can be tracked by any means as all data are saved anonymously.  
 
-Estimate duration: 3-5min
+__Estimated duration: 3-5min__
+
+
+## Q&A 
+
+### __1. Are the any risks?__
+
+There are likely no known risks associated with participating in this study. 
+
+### __2. How will my data be used?__
+
+The data collected for this study are likely to be analysed and reported at professional conferences and/or in academic books or articles. These reports will be written based on group data. For the individual data, no identifying information will allow others to trace responses back to the person who gave them.
+
+### __3. Will my responses be kept anonymous and confidential?__
+
+All information gathered will be kept strictly confidential and only used for research purposes. We store the data using random ID numbers so that the data cannot be linked back to you or your family. The data will be stored on secured electronic files or in a locked cabinet in the Faculty of Education, and it will be accessible only by the PI and the lead researcher for this study (Yiqiong Yang).
+
+# So if you are ready to go, here is the link:
+
+https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq
+
+Thank you so much for helping!
+
+*This study was reviewed by the University of Cambridge Faculty of Education ethics panel. Please do not hesitate to contact us if you have any questions or concerns you would like to discuss.*
+
+Researcher: Yiqiong YANG 
+
+Email: yyq_experiment@hotmail.com
+
+
+![Image of Cambridge University](https://www.educ.cam.ac.uk/facultyweb_content/news/sites/default/files/shorthand/81/C8Adkz9Jkx/assets/mYJevb0XiO/logo-faculty-education-750x256.jpeg)
+
+
+
+![Image of INSTRUCT](https://i1.rgstatic.net/ii/lab.file/AS%3A680533008855042%401539263121983_xl)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
