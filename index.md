@@ -64,7 +64,7 @@ This study was reviewed by the University of Cambridge Faculty of Education ethi
 
 Researcher: Yiqiong YANG 
 
-[Drop me an email]](yyq_experiment@hotmail.com)
+[Drop me an email](yyq_experiment@hotmail.com)
 
 Gonville & Caius College
 
