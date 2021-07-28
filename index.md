@@ -32,7 +32,7 @@ If you click the link at the end of the questionnaire, you will be directed to a
 __Estimated duration: 25-30min__
 
 ### Part 3 Self-report survey
-You will be re-directed to the survey platform to complete a short demographic questionnaire as well as a task-related questionnaire that contains 20 items. __You will need the ID number generated in Part 1 to fill an item of the demographic questionnaire.__ This is because the survey data and the experiment data are stored separately, which requires two sets of data to have a matching ID to be paired and analysed together. However, it does not mean that your data can be tracked by any means as all data are saved anonymously.  
+Once you have done the experiment, you will be re-directed to the survey platform to complete a short demographic questionnaire as well as a task-related questionnaire. __You will need the ID number generated in Part 1 to answer one of the survey items.__ This is because the survey data and the experiment data are stored separately, which requires an ID to pair two sets o data from the same participant for later analysis. However, it does not mean that your data can be tracked by any means as all data are saved anonymously.  
 
 __Estimated duration: 3-5min__
 
