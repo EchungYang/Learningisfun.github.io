@@ -1,6 +1,6 @@
 # Welcome to my research study about learning! 
 
-
+![Image of Learning](https://www.wiley.com/learn/jossey-bass/images/what-every-teacher-should-know-about-the-science-of-learning.jpg)
 
 ## A bit background about me and this project
 
