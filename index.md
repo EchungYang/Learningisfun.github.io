@@ -55,8 +55,7 @@ All information gathered will be kept strictly confidential and only used for re
 You will have a chance to win a prize draw of up to £50 for participation.
 
 
-# So if you are ready to go, here is the link: 
-## https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq
+# So if you are ready to go, you can [click here](https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq) to begin the experiment!
 
 Thank you so much for helping!
 
