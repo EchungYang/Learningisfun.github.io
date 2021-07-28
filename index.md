@@ -20,6 +20,8 @@ This research project has three components:
 
 All responses will be recorded anonymously. 
 
+![Image of Exp process](https://i.postimg.cc/vHGssCwz/Screenshot-2021-07-28-at-19-52-34.png)
+
 ### Part 1 Questionnaire
 The first thing you will come across is a super short questionnaire. It consists of an information sheet about the project for you to read through, a consent form for you to sign/click, and an ID generator that gives you a unique ID, which you may need to write it down for later use. 
 
@@ -64,8 +66,6 @@ Email: yyq_experiment@hotmail.com
 
 
 ![Image of Cambridge University](https://www.educ.cam.ac.uk/facultyweb_content/news/sites/default/files/shorthand/81/C8Adkz9Jkx/assets/mYJevb0XiO/logo-faculty-education-750x256.jpeg)
-
-
 
 ![Image of INSTRUCT](https://i1.rgstatic.net/ii/lab.file/AS%3A680533008855042%401539263121983_xl)
 
