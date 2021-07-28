@@ -18,8 +18,6 @@ This research project has three components:
 2. A computerised experiment, 
 3. and a self-report survey. 
 
-All responses will be recorded anonymously. 
-
 ![Image of Exp process](https://i.postimg.cc/vHGssCwz/Screenshot-2021-07-28-at-19-52-34.png)
 
 ### Part 1 Questionnaire
@@ -52,9 +50,12 @@ The data collected for this study are likely to be analysed and reported at prof
 
 All information gathered will be kept strictly confidential and only used for research purposes. We store the data using random ID numbers so that the data cannot be linked back to you or your family. The data will be stored on secured electronic files or in a locked cabinet in the Faculty of Education, and it will be accessible only by the PI and the lead researcher for this study (Yiqiong Yang).
 
-# So if you are ready to go, here is the link:
+### __4. Will there be any form of incentives?__
+You will have a chance to win a prize draw of up to £50 for participation.
 
-https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq
+
+# So if you are ready to go, here is the link: 
+## https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq
 
 Thank you so much for helping!
 
