@@ -25,7 +25,7 @@ The first thing you will come across is a super short questionnaire. It consists
 
 __Estimate duration: 1min__
 
-### Part 2 Computerised experim
+### Part 2 Computerised experiment
 If you click the link at the end of the questionnaire, you will be directed to an online research platform that only works for PC or laptops. So please make sure you open the experiment link on an appropriate device. You will complete three tasks on this platform, and the task rules and instructions will be displayed before you start. 
 
 __Estimated duration: 25-30min__
