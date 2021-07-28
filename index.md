@@ -63,8 +63,11 @@ You will have a chance to win a prize draw of up to £50 for participation.
 This study was reviewed by the University of Cambridge Faculty of Education ethics panel. Please do not hesitate to contact us if you have any questions or concerns you would like to discuss.
 
 Researcher: Yiqiong YANG 
+
 Email: yyq_experiment@hotmail.com
+
 Gonville & Caius College
+
 University of Cambridge
 
 
