@@ -8,7 +8,7 @@ Hi, my name is Yiqiong Yang, a Chinese girl on my way through a tough Ph.D. jour
 
 Learning is an amazing phenomenon in both human beings and animals. We may think it just comes so naturally to us, but there are lots of steps involved that are worth taking a closer look at, such as how do we reason a simple math problem, making decisions in a multiple-choice and how do we aware of our judgment in different contexts.
 
-For me, I am in particular curious about how do we respond to tasks that subject to different rules. Do we use the same set of strategies to perform all tasks? Do we stay alert in boredness? So, if you are willing to help me with answering these questions, this page has almost everything you need to know before continuing :)
+For me, I am in particular curious about how do we respond to tasks that subject to different rules. Do we use the same set of strategies to perform all tasks? Do we stay alert in boredness? So, if you are willing to help me answer these questions, this page has almost everything you need to know before continuing :)
 
 ## How does this project work?
 
