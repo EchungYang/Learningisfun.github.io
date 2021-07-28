@@ -18,6 +18,7 @@ This research project has three components:
 2. A computerised experiment, 
 3. and a self-report survey. 
 
+
 ![Image of Exp process](https://i.postimg.cc/vHGssCwz/Screenshot-2021-07-28-at-19-52-34.png)
 
 ### Part 1 Questionnaire
