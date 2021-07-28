@@ -4,9 +4,9 @@
 
 ## A bit background about me and this project
 
-Hi, my name is Yiqiong Yang, a Chinese girl on my way through a tough Ph.D. journey at the University of Cambridge，major in Psychology and Education. I obtained a bachelor's degree in psychology, and then I became specialised in educational psychology as I think learning how do we learn is fun.
+Hi, my name is Yiqiong Yang, a Chinese girl on my way through a tough Ph.D. journey at the University of Cambridge, major in Psychology and Education. I obtained a bachelor's degree in Psychology, and then I became specialised in educational psychology as I think learning how do we learn is fun.
 
-Learning is an amazing phenomenon in both human beings and animals. We may think it just comes so naturally to us, but there are lots of steps involved that are worth taking a closer look at, such as how do we reason a simple math problem, make decisions in a multiple-choice and how do we aware of our judgment in different contexts.
+Learning is an amazing phenomenon in both human beings and animals. We may think it just comes so naturally to us, but there are lots of steps involved that are worth taking a closer look at, such as how do we reason a simple math problem, making decisions in a multiple-choice and how do we aware of our judgment in different contexts.
 
 For me, I am in particular curious about how do we respond to tasks when rules changed. Do we use the same set of strategies to do different tasks? Do we stay alert in boredness? So, if you are willing to help me with answering these questions, this page has almost everything you need to know before continuing :)
 
@@ -55,9 +55,10 @@ All information gathered will be kept strictly confidential and only used for re
 You will have a chance to win a prize draw of up to £50 for participation.
 
 
+
 # So if you are ready to go, you can [click here](https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq) to begin the experiment!
 
-Thank you so much for helping!
+
 
 *This study was reviewed by the University of Cambridge Faculty of Education ethics panel. Please do not hesitate to contact us if you have any questions or concerns you would like to discuss.*
 
