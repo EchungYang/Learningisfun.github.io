@@ -4,7 +4,7 @@
 
 ## A bit background about me and this project
 
-Hi, my name is Yiqiong Yang, a Chinese girl on my way through a tough Ph.D. journey at the University of Cambridge, major in Psychology and Education. I obtained a bachelor's degree in Psychology, and then I became specialised in educational psychology as I think learning how do we learn is fun.
+Hi, my name is Yiqiong Yang, I am on my way through a tough Ph.D. journey at the University of Cambridge, major in Psychology and Education. I obtained a bachelor's degree in Psychology, and then I became specialised in educational psychology as I think learning how do we learn is fun.
 
 Learning is an amazing phenomenon in both human beings and animals. We may think it just comes so naturally to us, but there are lots of steps involved that are worth taking a closer look at, such as how do we reason a simple math problem, making decisions in a multiple-choice and how do we aware of our judgment in different contexts.
 
@@ -38,6 +38,7 @@ __Estimated duration: 3-5min__
 
 
 
+# You will have a chance to win a prize draw of up to £50 for participation.
 # So if you are ready to go, you can [click here](https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq) to begin the experiment!
 
 
@@ -57,7 +58,7 @@ The data collected for this study are likely to be analysed and reported at prof
 All information gathered will be kept strictly confidential and only used for research purposes. We store the data using random ID numbers so that the data cannot be linked back to you or your family. The data will be stored on secured electronic files or in a locked cabinet in the Faculty of Education, and it will be accessible only by the PI and the lead researcher for this study (Yiqiong Yang).
 
 ### __4. Will there be any form of incentives?__
-You will have a chance to win a prize draw of up to £50 for participation.
+You will have a chance to win a prize draw of up to £50 for participation. However, you will be informed after the data collection process has done, which can take months. 
 
 
 This study was reviewed by the University of Cambridge Faculty of Education ethics panel. Please do not hesitate to contact us if you have any questions or concerns you would like to discuss.
