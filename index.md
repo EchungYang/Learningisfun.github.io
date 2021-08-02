@@ -37,6 +37,11 @@ Once you have done the experiment, you will be re-directed to the survey platfor
 __Estimated duration: 3-5min__
 
 
+
+# So if you are ready to go, you can [click here](https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq) to begin the experiment!
+
+
+
 ## Q&A 
 
 ### __1. Are the any risks?__
@@ -53,11 +58,6 @@ All information gathered will be kept strictly confidential and only used for re
 
 ### __4. Will there be any form of incentives?__
 You will have a chance to win a prize draw of up to £50 for participation.
-
-
-
-# So if you are ready to go, you can [click here](https://cambridge.eu.qualtrics.com/jfe/form/SV_6nCiywasShVbvkq) to begin the experiment!
-
 
 
 This study was reviewed by the University of Cambridge Faculty of Education ethics panel. Please do not hesitate to contact us if you have any questions or concerns you would like to discuss.
